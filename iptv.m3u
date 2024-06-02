@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="ОБЩИЙ", ПЕРВЫЙ КАНАЛ [1920X1080]
+http://188.113.190.15/98/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ПЕРВЫЙ КАНАЛ [720X576]
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ПЕРВЫЙ КАНАЛ [720X576]
+http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", НТВ [720X576]
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", НТВ [720X576]
+http://streaming.tv-teleport.ru/NTV/index.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", СТС [720X576]
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", РЕН ТВ [1920X1080]
+http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="ОБЩИЙ", РЕН ТВ [720X576]
+http://stream01.vnet.am/RenTv/mono.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ТНТ [720X576]
+http://streamer2.fokks.ru:10019/index.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ЗВЕЗДА [1920X1080]
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ПЯТНИЦА! [720X576]
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ТВ ЦЕНТР [720X576]
+http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1 group-title="ОБЩИЙ", ТВ ЦЕНТР [720X576]
+http://streamer2.fokks.ru:10010/index.m3u8
+#EXTINF:-1 group-title="НОВОСТИ", РОССИЯ 24 [720X576]
+http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
 http://streaming.tv-teleport.ru/NTV/index.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", ТСВ [720X576]
