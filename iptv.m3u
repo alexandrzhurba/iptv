@@ -1,42 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Общий" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1 [1920x1080]
-http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1024x576]
-http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [1920x1080]
-http://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
 http://streaming.tv-teleport.ru/NTV/index.m3u8
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://178.163.58.232:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://178.163.2.164:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://185.134.36.63:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://178.163.22.233:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://81.23.189.2:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://88.85.172.243:7005/play/a00n
-#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/9r1BKzK.png",НТВ [720x576]
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/iframes.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", ТСВ [720X576]
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", РОССИЯ 1 [1920X1080]
 http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ОБЩИЙ", НТВ [1920X1080]
-http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", СТС [1920X1080]
 http://45.159.74.13/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", РЕН ТВ [720X576]
@@ -61,14 +29,6 @@ http://strm.yandex.ru/kal/mir24/mir0.m3u8
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 group-title="ОБЩИЙ", МАТЧ! [720X576]
 http://tv.tuva.ru:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="ОБЩИЙ", НТВ +1 [1024X576]
-http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ОБЩИЙ", НТВ +2 [1024X576]
-http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ОБЩИЙ", НТВ +4 [1024X576]
-http://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ОБЩИЙ", НТВ +7 [1024X576]
-http://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="НОВОСТИ", РОССИЯ 24 [720X576]
 http://streaming.tv-teleport.ru/Rossiya_24/index.m3u8
 #EXTINF:-1 group-title="НОВОСТИ", РБК [1920X1080]
